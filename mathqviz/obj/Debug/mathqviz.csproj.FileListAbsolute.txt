@@ -1,0 +1,11 @@
+C:\Users\Professional\Desktop\mathqviz\bin\Debug\mathqviz.exe.config
+C:\Users\Professional\Desktop\mathqviz\bin\Debug\mathqviz.exe
+C:\Users\Professional\Desktop\mathqviz\bin\Debug\mathqviz.pdb
+C:\Users\Professional\Desktop\mathqviz\obj\Debug\mathqviz.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\mathqviz\obj\Debug\mathqviz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Professional\Desktop\mathqviz\obj\Debug\mathqviz.Form1.resources
+C:\Users\Professional\Desktop\mathqviz\obj\Debug\mathqviz.Properties.Resources.resources
+C:\Users\Professional\Desktop\mathqviz\obj\Debug\mathqviz.csproj.GenerateResource.cache
+C:\Users\Professional\Desktop\mathqviz\obj\Debug\mathqviz.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\mathqviz\obj\Debug\mathqviz.exe
+C:\Users\Professional\Desktop\mathqviz\obj\Debug\mathqviz.pdb
